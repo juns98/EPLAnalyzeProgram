@@ -8,3 +8,8 @@ FPL은 잉글랜드 프로축구리그인 프리미어리그에서 공식적으�
 
 1. 사용자가 직접 기록을 확인할 수 있도록 데이터 소스 제공
 2. 데이터를 기반으로 FPL에서 제공하는 가중치에 비례하게 기록 별 가중치를 부여함으로써 영입 / 방출 대상 추천
+
+![image](https://user-images.githubusercontent.com/64398993/147643049-c485cb2d-417f-45a1-baf2-0326a1a48836.png)
+![image](https://user-images.githubusercontent.com/64398993/147643060-52681920-0c2d-4d47-b9c7-e8916b44958e.png)
+![image](https://user-images.githubusercontent.com/64398993/147643075-129cb73c-bfc2-4364-ac91-1de57b0d7254.png)
+![image](https://user-images.githubusercontent.com/64398993/147643141-0e6ef3ba-bcc1-4205-b602-c941059ffe3d.png)
